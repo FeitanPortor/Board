@@ -78,14 +78,3 @@ python university_prediction.py
 4. Predicted university names will be displayed on the GUI.
 
 Ensure that required CSV files (`dataset_university.csv`) and the machine learning model (`model.pkl`) are available in the project directory.
-
-## Contributing
-
-Feel free to contribute! Check out the [Contributing Guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-```
-
-Remember to replace placeholders like `your-username` with your actual GitHub username and update the paths or file names if needed. Additionally, consider adding a `CONTRIBUTING.md` file for detailed contribution guidelines.
